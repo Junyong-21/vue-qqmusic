@@ -3,7 +3,6 @@
 </template>
 
 <script setup lang='ts'>
-import { ref } from 'vue';
 import QRCode from 'qrcode.vue'
 import axios from 'axios';
 import { ElMessage } from 'element-plus';
